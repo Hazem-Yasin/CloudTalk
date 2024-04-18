@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudTalk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d394ba368853904fb2716e11384c22ef6e65f56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e43e06a91631d0f0e438b947f60dc445816fcc4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudTalk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudTalk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
