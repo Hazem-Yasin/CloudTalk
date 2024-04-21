@@ -1,0 +1,6 @@
+@CloudTalkApi_HostAddress = http://localhost:5148
+
+GET {{CloudTalkApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
