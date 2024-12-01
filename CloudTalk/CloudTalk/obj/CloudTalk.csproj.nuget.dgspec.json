@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\CloudTalk\\CloudTalk\\CloudTalk\\CloudTalk.csproj": {}
+    "/home/hazem/Documents/GitHub/CloudTalk/CloudTalk/CloudTalk/CloudTalk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\CloudTalk\\CloudTalk\\CloudTalk\\CloudTalk.csproj": {
+    "/home/hazem/Documents/GitHub/CloudTalk/CloudTalk/CloudTalk/CloudTalk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\CloudTalk\\CloudTalk\\CloudTalk\\CloudTalk.csproj",
+        "projectUniqueName": "/home/hazem/Documents/GitHub/CloudTalk/CloudTalk/CloudTalk/CloudTalk.csproj",
         "projectName": "CloudTalk",
-        "projectPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\CloudTalk\\CloudTalk\\CloudTalk\\CloudTalk.csproj",
-        "packagesPath": "C:\\Users\\hazem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\CloudTalk\\CloudTalk\\CloudTalk\\obj\\",
+        "projectPath": "/home/hazem/Documents/GitHub/CloudTalk/CloudTalk/CloudTalk/CloudTalk.csproj",
+        "packagesPath": "/home/hazem/.nuget/packages/",
+        "outputPath": "/home/hazem/Documents/GitHub/CloudTalk/CloudTalk/CloudTalk/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\hazem\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/hazem/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +33,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -90,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
